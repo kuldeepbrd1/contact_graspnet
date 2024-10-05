@@ -7,3 +7,7 @@ checkpoints/*
 test_data
 
 *.egg-info
+
+build
+*.so
+*.o
